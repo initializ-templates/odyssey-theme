@@ -1,6 +1,4 @@
 
-[![Kubeday India](https://res.cloudinary.com/daosik5yi/image/upload/f_auto,q_auto/pntsnjpa1sxbc2d02q9n)](http://console.dev.initializ.ai/create-app/?clone=https://github.com/treefarmstudio/odyssey-theme&repo_name=odyssey-theme&description=♾️%20A%20modern%20business%20marketing%20website%20theme/starter%20built%20with%20Astro%20🚀&private=false&github=true)
-
 <p align="center">
   <img src="assets/gh-banner.png" alt="Odyssey Theme Banner">
 </p>
